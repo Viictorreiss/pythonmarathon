@@ -45,7 +45,7 @@ Obs.: don't forget the endline after all.
 
 <img src="prints/uri_1001.jpeg"></a>
 
-- [@Answer](https://github.com/Viictorreiss) - 
+- [@Answer](https://github.com/Viictorreiss/pythonmarathon/blob/main/release/URI_1001.py) - 
 URI 1001
 
 # 🧐 Next Challenge... <a name = ""></a>
